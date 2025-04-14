@@ -35,7 +35,7 @@ SmartMeeting Copilot offers a comprehensive set of features designed to optimize
 
 SmartMeeting Copilot follows a modern, scalable architecture designed to leverage the power of Microsoft's Semantic Kernel:
 
-![SmartMeeting Copilot Architecture](Uploading ChatGPT Image Apr 14, 2025, 09_42_23 AM.png…)
+![SmartMeeting Copilot Architecture]()
 
 
 
