@@ -1,4 +1,4 @@
-
+![ChatGPT Image Apr 14, 2025, 09_42_23 AM](https://github.com/user-attachments/assets/1336ae25-ba59-4355-9bd7-02e9233bc706)
 # SmartMeeting Copilot
 
 SmartMeeting Copilot is an AI-powered meeting assistant that uses Microsoft's Semantic Kernel framework to orchestrate multiple specialized AI agents. The application streamlines the entire meeting lifecycle, from agenda creation and note-taking to action item extraction and follow-up reminders.
@@ -35,7 +35,8 @@ SmartMeeting Copilot offers a comprehensive set of features designed to optimize
 
 SmartMeeting Copilot follows a modern, scalable architecture designed to leverage the power of Microsoft's Semantic Kernel:
 
-![Uploading ChatGPT Image Apr 14, 2025, 09_42_23 AM.png…]()
+![SmartMeeting Copilot Architecture](Uploading ChatGPT Image Apr 14, 2025, 09_42_23 AM.png…)
+
 
 
 ### Key Architecture Components:
