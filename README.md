@@ -35,25 +35,8 @@ SmartMeeting Copilot offers a comprehensive set of features designed to optimize
 
 SmartMeeting Copilot follows a modern, scalable architecture designed to leverage the power of Microsoft's Semantic Kernel:
 
-```
-┌─────────────────┐     ┌───────────────────────┐     ┌─────────────────┐
-│                 │     │                       │     │                 │
-│  React Frontend ├─────┤  C# Semantic Kernel   ├─────┤  Azure OpenAI   │
-│                 │     │  Backend              │     │                 │
-└─────────────────┘     └───────────────────────┘     └─────────────────┘
-        │                          │                          │
-        │                          │                          │
-        ▼                          ▼                          ▼
-┌─────────────────┐     ┌───────────────────────┐     ┌─────────────────┐
-│                 │     │                       │     │                 │
-│  User Interface │     │  AI Agent Orchestrator│     │  LLM Processing │
-│  Components     │     │  - Agenda Agent       │     │  - GPT-4        │
-│  - Meeting UI   │     │  - Notes Agent        │     │  - Function     │
-│  - Agenda UI    │     │  - Action Item Agent  │     │    Calling      │
-│  - Notes UI     │     │  - Reminder Agent     │     │  - Context      │
-│  - Action Items │     │                       │     │    Management   │
-└─────────────────┘     └───────────────────────┘     └─────────────────┘
-```
+![Uploading ChatGPT Image Apr 14, 2025, 09_42_23 AM.png…]()
+
 
 ### Key Architecture Components:
 
