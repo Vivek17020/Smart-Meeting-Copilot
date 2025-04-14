@@ -103,8 +103,8 @@ SmartMeeting Copilot follows a modern, scalable architecture designed to leverag
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-org/smartmeeting-copilot.git
-   cd smartmeeting-copilot
+   git clone https://github.com/Vivek17020/Smart-Meeting-Copilot.git
+   cd Smart-Meeting-Copilot
    ```
 
 2. Install dependencies:
