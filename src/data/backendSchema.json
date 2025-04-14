@@ -1,0 +1,55 @@
+
+{
+  "meetings": [
+    {
+      "id": "m-001",
+      "title": "Project Kickoff: AI Assistant Integration",
+      "description": "Initial planning for SmartMeeting Copilot integration into our existing product suite.",
+      "date": "2025-04-15",
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "participants": [
+        {
+          "id": "p-001",
+          "name": "Sarah Johnson",
+          "email": "sarah.johnson@example.com",
+          "role": "Project Manager"
+        },
+        {
+          "id": "p-002",
+          "name": "Michael Chen",
+          "email": "michael.chen@example.com",
+          "role": "Lead Developer"
+        },
+        {
+          "id": "p-003",
+          "name": "Priya Patel",
+          "email": "priya.patel@example.com",
+          "role": "Product Owner"
+        }
+      ],
+      "location": "Conference Room A",
+      "agenda": [],
+      "notes": "",
+      "actionItems": []
+    }
+  ],
+  "users": [
+    {
+      "id": "p-001",
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@example.com",
+      "role": "Project Manager",
+      "preferredWorkingHours": {
+        "start": "09:00",
+        "end": "17:00"
+      }
+    }
+  ],
+  "systemSettings": {
+    "reminderTimes": [5, 15, 30, 60],
+    "defaultAgendaGenerationPrompt": "Generate a professional meeting agenda based on the following meeting details. Consider the meeting's purpose, participants, and their roles. Create agenda items with appropriate time allocations and assign presenters.",
+    "defaultNotesGenerationPrompt": "Generate comprehensive meeting notes based on the following meeting agenda and participants. Include key discussion points, decisions, and identify potential action items.",
+    "defaultActionItemExtractionPrompt": "Extract all action items from the provided meeting notes. For each action item, determine the most appropriate assignee from the participant list and suggest a reasonable due date."
+  }
+}
